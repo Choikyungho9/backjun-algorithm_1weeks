@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/enc_temp_folder/d41d8cd98f0b24e980998ecf8427e
