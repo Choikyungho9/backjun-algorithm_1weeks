@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2309-일곱난쟁이", "230
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10808-알파벳 개수", "10808-알파벳 개수\10808-알파벳 개수.vcxproj", "{CDCDCB7F-1785-440E-A3A3-55ED9C28619A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10988-팰린드롬인지확인하기", "10988-팰린드롬인지확인하기\10988-팰린드롬인지확인하기.vcxproj", "{9112D065-1130-460E-BDFE-0AADB4376F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{CDCDCB7F-1785-440E-A3A3-55ED9C28619A}.Release|x64.Build.0 = Release|x64
 		{CDCDCB7F-1785-440E-A3A3-55ED9C28619A}.Release|x86.ActiveCfg = Release|Win32
 		{CDCDCB7F-1785-440E-A3A3-55ED9C28619A}.Release|x86.Build.0 = Release|Win32
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Debug|x64.ActiveCfg = Debug|x64
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Debug|x64.Build.0 = Debug|x64
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Debug|x86.ActiveCfg = Debug|Win32
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Debug|x86.Build.0 = Debug|Win32
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Release|x64.ActiveCfg = Release|x64
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Release|x64.Build.0 = Release|x64
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Release|x86.ActiveCfg = Release|Win32
+		{9112D065-1130-460E-BDFE-0AADB4376F81}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
