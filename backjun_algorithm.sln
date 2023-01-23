@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9996-한국이 그리울 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2559-수열", "2559-수열\2559-수열.vcxproj", "{4B9C3793-FB47-4B21-B305-32EF2B561E33}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1620-나는야 포켓몬 마스터 이다솜", "1620-나는야 포켓몬 마스터 이다솜\1620-나는야 포켓몬 마스터 이다솜.vcxproj", "{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{4B9C3793-FB47-4B21-B305-32EF2B561E33}.Release|x64.Build.0 = Release|x64
 		{4B9C3793-FB47-4B21-B305-32EF2B561E33}.Release|x86.ActiveCfg = Release|Win32
 		{4B9C3793-FB47-4B21-B305-32EF2B561E33}.Release|x86.Build.0 = Release|Win32
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Debug|x64.ActiveCfg = Debug|x64
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Debug|x64.Build.0 = Debug|x64
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Debug|x86.Build.0 = Debug|Win32
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Release|x64.ActiveCfg = Release|x64
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Release|x64.Build.0 = Release|x64
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Release|x86.ActiveCfg = Release|Win32
+		{80CE5FD8-C26A-40AF-BFE4-8E0FE0A6B6EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
