@@ -25,5 +25,5 @@ int main() {
 	}
 	// for문이 다 끝나면,, 여기서 출력하고 리턴 answer한다. 
 	cout << answer << '\n';
-	return answer;
+	return 0;
 }
