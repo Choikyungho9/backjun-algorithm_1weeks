@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10988-팰린드롬인지확
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1159-농구경기", "1159-농구경기\1159-농구경기.vcxproj", "{43880F77-B70B-4BCA-BED8-2A5A4C08293B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11655-ROT13", "11655-ROT13\11655-ROT13.vcxproj", "{FA1C7EB2-3106-4E53-842A-74B6128F817C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{43880F77-B70B-4BCA-BED8-2A5A4C08293B}.Release|x64.Build.0 = Release|x64
 		{43880F77-B70B-4BCA-BED8-2A5A4C08293B}.Release|x86.ActiveCfg = Release|Win32
 		{43880F77-B70B-4BCA-BED8-2A5A4C08293B}.Release|x86.Build.0 = Release|Win32
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Debug|x64.ActiveCfg = Debug|x64
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Debug|x64.Build.0 = Debug|x64
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Debug|x86.Build.0 = Debug|Win32
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Release|x64.ActiveCfg = Release|x64
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Release|x64.Build.0 = Release|x64
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Release|x86.ActiveCfg = Release|Win32
+		{FA1C7EB2-3106-4E53-842A-74B6128F817C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
