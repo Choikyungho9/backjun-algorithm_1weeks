@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1940-주몽", "1940-주몽\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3986-좋은단어", "3986-좋은단어\3986-좋은단어.vcxproj", "{87D6E2F0-46FF-4658-A28A-851C253C3BBD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1629-곱셈", "1629-곱셈\1629-곱셈.vcxproj", "{022D6487-52C8-49F4-B43B-1224BC8B7D66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{87D6E2F0-46FF-4658-A28A-851C253C3BBD}.Release|x64.Build.0 = Release|x64
 		{87D6E2F0-46FF-4658-A28A-851C253C3BBD}.Release|x86.ActiveCfg = Release|Win32
 		{87D6E2F0-46FF-4658-A28A-851C253C3BBD}.Release|x86.Build.0 = Release|Win32
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Debug|x64.ActiveCfg = Debug|x64
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Debug|x64.Build.0 = Debug|x64
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Debug|x86.ActiveCfg = Debug|Win32
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Debug|x86.Build.0 = Debug|Win32
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Release|x64.ActiveCfg = Release|x64
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Release|x64.Build.0 = Release|x64
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Release|x86.ActiveCfg = Release|Win32
+		{022D6487-52C8-49F4-B43B-1224BC8B7D66}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
